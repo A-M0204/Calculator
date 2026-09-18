@@ -4,3 +4,6 @@ Pretty basic but it was my first time coding in python and I was just having a b
 
 # Description 
 Calc is able to carry out basic functions (can add, subtract, multiply, divide and find sqrt of a number)
+
+#Screenshot
+![Screenshot of calculator](Screenshot 2026-09-16 202623.png)
